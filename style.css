@@ -1,0 +1,17 @@
+.test_image_and_result_col_xs_12
+{
+    border-radius: 20px;
+    border-style: dashed;
+    border-color: grey;
+    background-color: rgb(158, 158, 158);
+    height: 400px;
+    width: 1100px;
+    padding: 30px;
+}
+#conclusion
+{
+    border-radius: 20px;
+    border-style: dashed;
+    border-color: red;
+    background-color: rgb(255, 41, 41);
+}
